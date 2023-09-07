@@ -1,0 +1,16 @@
+Index: app/src/main/java/com/psm/sosmyv3/VictimMapActivity.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/java/com/psm/sosmyv3/VictimMapActivity.java	(date 1598090358200)
++++ app/src/main/java/com/psm/sosmyv3/VictimMapActivity.java	(date 1598090358200)
+@@ -194,7 +194,7 @@
+                     {
+                         mRequest.setText("Dispatch found" + String.valueOf(distance));
+                     }
+-                    
++
+                     mDispatchMarker = mMap.addMarker(new MarkerOptions().position(dispatchLatLng).title("your Dispatch"));
+                 }
+             }

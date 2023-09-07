@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SOSmy Dispatch</string>
+    <string name="drawer_open">Drawer Open</string>
+    <string name="drawer_close">Drawer Close</string>
+    <string name="username">Enter Full Name</string>
+    <string name="telNo">Enter Contact Number</string>
+    <string name="btnUpdate">Update Profile</string>
+    <string name="ICNo">Enter IC number</string>
+    <string name="dispatchID">Enter ID</string>
+    <string name="login1">Login</string>
+    <string name="disPassword">Enter Password</string>
+    <string name="trustedTelNo">Enter Trusted Contact Number</string>
+    <string name="map_key" translatable="false">AIzaSyBuFj3Fl2Rd0t3uKRJ6BIiiMORzE3VOsNI</string>
+    <string name="title_activity_search_facility_maps">Map</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_dispatch_map">Map</string>
+    <string name="title_activity_police_map">Map</string>
+    <string name="title_activity_fireman_map">Map</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>

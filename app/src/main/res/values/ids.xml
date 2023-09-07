@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="drawable_layout_dispatch_profile" type="id" />
+    <item name="drawable_layout_dispatch_update" type="id" />
+</resources>

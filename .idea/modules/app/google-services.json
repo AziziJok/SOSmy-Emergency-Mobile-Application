@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "684105071845",
+    "firebase_url": "https://sosmyv3-4efe7.firebaseio.com",
+    "project_id": "sosmyv3-4efe7",
+    "storage_bucket": "sosmyv3-4efe7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684105071845:android:066349e155c1e65215680c",
+        "android_client_info": {
+          "package_name": "com.psm.sosmyv3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684105071845-efnt5t0ake2n4v26aa0fisr7jrs43pgb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.psm.sosmyv3",
+            "certificate_hash": "a91aec62e532c0208810f0149c3e63e563dfb233"
+          }
+        },
+        {
+          "client_id": "684105071845-g18s2lsq6uf5e9h5pq6i9gipnkilfqeg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7uEcYih44EhhKVL7ZcejO56CXNXkeY9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "684105071845-g18s2lsq6uf5e9h5pq6i9gipnkilfqeg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

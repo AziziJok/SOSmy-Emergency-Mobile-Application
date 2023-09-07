@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <item
+
+        android:id="@+id/nav_home"
+        android:title="Home"
+        android:icon="@drawable/home"
+
+        />
+
+    <item
+
+        android:id="@+id/nav_profile"
+        android:title="Profile"
+        android:icon="@drawable/profile_icon"
+
+        />
+
+
+    <item
+
+        android:id="@+id/nav_emergency"
+        android:title="Search Nearby Facility"
+        android:icon="@drawable/emergency"
+
+        />
+
+
+    <item
+
+        android:id="@+id/add_contact"
+        android:title="Add Trusted Contact"
+        android:icon="@drawable/call"
+
+        />
+    <item
+
+        android:id="@+id/my_contacts"
+        android:title="My Trusted Contact"
+        android:icon="@drawable/call"
+
+        />
+
+
+    <item
+
+        android:id="@+id/nav_Logout"
+        android:title="Logout"
+        android:icon="@drawable/logout"
+
+        />
+
+
+</menu>
